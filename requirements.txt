@@ -1,0 +1,2 @@
+opencv-python==4.6.0
+tensorflow-gpu==2.10.0
